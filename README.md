@@ -1,1 +1,0 @@
-# practica6_personajes
